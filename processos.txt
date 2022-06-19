@@ -1,0 +1,5 @@
+0 0.9 ./primeiroProc arg1 arg2 arg3
+0 0.4 ./UltimoProc
+0 0.3 ./Penultimo arg1
+0 0.2 ./Meiuca arg1 arg2
+0 0.1 ./Segundola 30 andre
